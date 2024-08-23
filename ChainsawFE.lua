@@ -1,4 +1,3 @@
-lua
 local chainsaw = game:GetService("InsertService"):LoadAsset(345753709) -- loads the chainsaw model
 chainsaw.Parent = game.Workspace -- parents the chainsaw to the workspace
 
